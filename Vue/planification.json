@@ -1,0 +1,752 @@
+[
+    {
+        "id":"1", "name":"SMIA", "parent_id":"0"
+       },
+       {
+        "id":"2", "name":"SMA", "parent_id":"0"
+       }, 
+       {
+        "id":"3", "name":"SMI", "parent_id":"0"
+       }, 
+       {
+        "id":"4", "name":"SMPC", "parent_id":"0"
+       }, 
+       {
+        "id":"5", "name":"SMC", "parent_id":"0"
+       }, 
+       {
+        "id":"6", "name":"SMP", "parent_id":"0"
+       }, 
+       {
+        "id":"7", "name":"SVTU", "parent_id":"0"
+       }, 
+       {
+        "id":"8", "name":"STU", "parent_id":"0"
+       }, 
+       {
+        "id":"9", "name":"SV", "parent_id":"0"
+       },
+       {
+        "id":"10", "name":"S1", "parent_id":"1"
+       }, 
+       {
+        "id":"11", "name":"S2", "parent_id":"1"
+       }, 
+       {
+        "id":"12", "name":"S3", "parent_id":"2"
+       }, 
+       {
+        "id":"13", "name":"S4", "parent_id":"2"
+       }, 
+       {
+        "id":"14", "name":"S5", "parent_id":"2"
+       }, 
+       {
+        "id":"15", "name":"S6", "parent_id":"2"
+       },
+       {
+        "id":"16", "name":"S3", "parent_id":"3"
+       }, 
+       {
+        "id":"17", "name":"S4", "parent_id":"3"
+       }, 
+       {
+        "id":"18", "name":"S5", "parent_id":"3"
+       }, 
+       {
+        "id":"19", "name":"S6", "parent_id":"3"
+       },
+       {
+        "id":"20", "name":"S1", "parent_id":"4"
+       }, 
+       {
+        "id":"21", "name":"S2", "parent_id":"4"
+       },
+       {
+        "id":"22", "name":"S3", "parent_id":"5"
+       }, 
+       {
+        "id":"23", "name":"S4", "parent_id":"5"
+       },
+       {
+        "id":"24", "name":"S5", "parent_id":"5"
+       }, 
+       {
+        "id":"25", "name":"S6", "parent_id":"5"
+       },
+       {
+        "id":"26", "name":"S3", "parent_id":"6"
+       }, 
+       {
+        "id":"27", "name":"S4", "parent_id":"6"
+       },
+       {
+        "id":"28", "name":"S5", "parent_id":"6"
+       }, 
+       {
+        "id":"29", "name":"S6", "parent_id":"6"
+       },
+       {
+        "id":"30", "name":"S1", "parent_id":"7"
+       }, 
+       {
+        "id":"31", "name":"S2", "parent_id":"7"
+       },
+       {
+        "id":"32", "name":"S3", "parent_id":"8"
+       }, 
+       {
+        "id":"33", "name":"S4", "parent_id":"8"
+       },
+       {
+        "id":"34", "name":"S5", "parent_id":"8"
+       }, 
+       {
+        "id":"35", "name":"S6", "parent_id":"8"
+       },
+       {
+        "id":"36", "name":"S3", "parent_id":"9"
+       }, 
+       {
+        "id":"37", "name":"S4", "parent_id":"9"
+       },
+       {
+        "id":"38", "name":"S5", "parent_id":"9"
+       }, 
+       {
+        "id":"39", "name":"S6", "parent_id":"9"
+       },
+       {
+        "id":"40", "name":"Analyse 1", "parent_id":"10"
+       }, 
+       {
+        "id":"41", "name":"Algèbre 1", "parent_id":"10"
+       }, 
+       {
+        "id":"42", "name":"Algèbre 2", "parent_id":"10"
+       }, 
+       {
+        "id":"43", "name":"Mècanique", "parent_id":"10"
+       }, 
+       {
+        "id":"44", "name":"Thermodynamique", "parent_id":"10"
+       }, 
+       {
+        "id":"45", "name":"Informatique 1", "parent_id":"10"
+       },
+       {
+        "id":"46", "name":"Analyse 2", "parent_id":"11"
+       }, 
+       {
+        "id":"47", "name":"Analyse 3", "parent_id":"11"
+       }, 
+       {
+        "id":"48", "name":"Algèbre 3", "parent_id":"11"
+       }, 
+       {
+        "id":"49", "name":"Electricité", "parent_id":"11"
+       }, 
+       {
+        "id":"50", "name":"Optique", "parent_id":"11"
+       }, 
+       {
+        "id":"51", "name":"Informatique 2", "parent_id":"11"
+       },
+       {
+        "id":"52", "name":"Analyse 4", "parent_id":"12"
+       }, 
+       {
+        "id":"53", "name":"Analyse 5", "parent_id":"12"
+       }, 
+       {
+        "id":"54", "name":"Algèbre 4", "parent_id":"12"
+       }, 
+       {
+        "id":"55", "name":"Probabilités-statistiques", "parent_id":"12"
+       }, 
+       {
+        "id":"56", "name":"Electricité", "parent_id":"12"
+       }, 
+       {
+        "id":"57", "name":"Informatique 3", "parent_id":"12"
+       },
+       {
+        "id":"58", "name":"Analyse 6", "parent_id":"13"
+       }, 
+       {
+        "id":"59", "name":"Algèbre 5", "parent_id":"13"
+       }, 
+       {
+        "id":"60", "name":"Algèbre 6", "parent_id":"13"
+       }, 
+       {
+        "id":"61", "name":"Analyse numérique 1", "parent_id":"13"
+       }, 
+       {
+        "id":"62", "name":"Mécanique", "parent_id":"13"
+       }, 
+       {
+        "id":"63", "name":"Informatique 4", "parent_id":"13"
+       },
+       {
+        "id":"64", "name":"Topologie", "parent_id":"14"
+       }, 
+       {
+        "id":"65", "name":"Intégration", "parent_id":"14"
+       }, 
+       {
+        "id":"66", "name":"Calcul différentiel", "parent_id":"14"
+       }, 
+       {
+        "id":"67", "name":"Programmation Mathématique", "parent_id":"14"
+       }, 
+       {
+        "id":"68", "name":"Analyse numérique 2", "parent_id":"14"
+       }, 
+       {
+        "id":"69", "name":"Informatique 5", "parent_id":"14"
+       },
+       {
+        "id":"70", "name":"Probabilités", "parent_id":"15"
+       }, 
+       {
+        "id":"71", "name":"Equations différentielles et systèmes dynamiques", "parent_id":"15"
+       }, 
+       {
+        "id":"72", "name":"Les extensions de Corps", "parent_id":"15"
+       }, 
+       {
+        "id":"73", "name":"Cryptographie", "parent_id":"15"
+       },
+       {
+        "id":"74", "name":"Optimisation Combinatoire", "parent_id":"15"
+       }, 
+       {
+        "id":"75", "name":"Théorie des Graphes", "parent_id":"15"
+       }, 
+       {
+        "id":"76", "name":"Analyse Statistique de Données", "parent_id":"15"
+       }, 
+       {
+        "id":"77", "name":"Statistiques Inférentielles", "parent_id":"15"
+       },
+       {
+        "id":"78", "name":"Courbes et Surfaces", "parent_id":"15"
+       }, 
+       {
+        "id":"79", "name":"Topologie Algébrique", "parent_id":"15"
+       }, 
+       {
+        "id":"80", "name":"Analyse Complexe", "parent_id":"15"
+       }, 
+       {
+        "id":"81", "name":"EDP", "parent_id":"15"
+       },
+       {
+        "id":"82", "name":"Electronique", "parent_id":"16"
+       }, 
+       {
+        "id":"83", "name":"Algorithmique II", "parent_id":"16"
+       },
+       {
+        "id":"84", "name":"Système d’exploitation I", "parent_id":"16"
+       }, 
+       {
+        "id":"85", "name":"Probabilités-statistiques", "parent_id":"16"
+       }, 
+       {
+        "id":"86", "name":"Technologie du web", "parent_id":"16"
+       }, 
+       {
+        "id":"87", "name":"Programmation I", "parent_id":"16"
+       },
+       {
+        "id":"88", "name":"Architecture des ordinateurs", "parent_id":"17"
+       }, 
+       {
+        "id":"89", "name":"Programmation II", "parent_id":"17"
+       },
+       {
+        "id":"90", "name":"Système d’exploitation II", "parent_id":"17"
+       }, 
+       {
+        "id":"91", "name":"Analyse numérique", "parent_id":"17"
+       }, 
+       {
+        "id":"92", "name":"Electromagnétisme", "parent_id":"17"
+       }, 
+       {
+        "id":"93", "name":"Structures de données", "parent_id":"17"
+       },
+       {
+        "id":"94", "name":"Bases de données", "parent_id":"18"
+       }, 
+       {
+        "id":"95", "name":"Compilation", "parent_id":"18"
+       },
+       {
+        "id":"96", "name":"Réseaux", "parent_id":"18"
+       }, 
+       {
+        "id":"97", "name":"Recherche opérationnelle", "parent_id":"18"
+       }, 
+       {
+        "id":"98", "name":"Conception orientée objets (UML)", "parent_id":"18"
+       }, 
+       {
+        "id":"99", "name":"Programmation orientée objets", "parent_id":"18"
+       },
+       {
+        "id":"100", "name":"Développement Web", "parent_id":"19"
+       }, 
+       {
+        "id":"101", "name":"Java", "parent_id":"19"
+       }, 
+       {
+        "id":"102", "name":"Programmation de base de Données", "parent_id":"19"
+       }, 
+       {
+        "id":"103", "name":"Administration de BD", "parent_id":"19"
+       },
+       {
+        "id":"104", "name":"Analyse De Données", "parent_id":"19"
+       }, 
+       {
+        "id":"105", "name":"SI Décisionnels", "parent_id":"19"
+       }, 
+       {
+        "id":"106", "name":"Programmation Système", "parent_id":"19"
+       }, 
+       {
+        "id":"107", "name":"TCP/IP", "parent_id":"19"
+       },
+       {
+        "id":"108", "name":"Mécanique", "parent_id":"20"
+       }, 
+       {
+        "id":"109", "name":"Thermodynamique 1", "parent_id":"20"
+       },
+       {
+        "id":"110", "name":"Atomistique", "parent_id":"20"
+       }, 
+       {
+        "id":"111", "name":"Thermochimie", "parent_id":"20"
+       }, 
+       {
+        "id":"112", "name":"Analyse 1", "parent_id":"20"
+       }, 
+       {
+        "id":"113", "name":"Algèbre 1", "parent_id":"20"
+       },
+       {
+        "id":"114", "name":"Electrostatique", "parent_id":"21"
+       }, 
+       {
+        "id":"115", "name":"Optique", "parent_id":"21"
+       },
+       {
+        "id":"116", "name":"Liaisons chimiques", "parent_id":"21"
+       }, 
+       {
+        "id":"117", "name":"Chimie des solutions", "parent_id":"21"
+       }, 
+       {
+        "id":"118", "name":"Analyse 2", "parent_id":"21"
+       }, 
+       {
+        "id":"119", "name":"Algèbre 2", "parent_id":"21"
+       },
+       {
+        "id":"120", "name":"Chimie expérimentale (TP)", "parent_id":"22"
+       }, 
+       {
+        "id":"121", "name":"Chimie descriptive I", "parent_id":"22"
+       },
+       {
+        "id":"122", "name":"Diagrammes de phases", "parent_id":"22"
+       }, 
+       {
+        "id":"123", "name":"Electromagnétisme", "parent_id":"22"
+       }, 
+       {
+        "id":"124", "name":"Chimie organique générale", "parent_id":"22"
+       }, 
+       {
+        "id":"125", "name":"Chimie des électrolytes", "parent_id":"22"
+       },
+       {
+        "id":"126", "name":"Mathématiques pour la chimie", "parent_id":"22"
+       },
+       {
+        "id":"127", "name":"Hydrocarbures et fonctions monovalentes", "parent_id":"23"
+       },
+       {
+        "id":"128", "name":"Thermodynamique chimique", "parent_id":"23"
+       }, 
+       {
+        "id":"129", "name":"Cristallographie géométrique et cristallochimie I", "parent_id":"23"
+       }, 
+       {
+        "id":"130", "name":"Mécanique quantique", "parent_id":"23"
+       }, 
+       {
+        "id":"131", "name":"Probabilités Statistiques", "parent_id":"23"
+       },
+       {
+        "id":"132", "name":"Informatique", "parent_id":"23"
+       },
+       {
+        "id":"133", "name":"Chimie théorique", "parent_id":"24"
+       },
+       {
+        "id":"134", "name":"Radiocristallographie et cristallochimie II", "parent_id":"24"
+       }, 
+       {
+        "id":"135", "name":"Cinétique et catalyse", "parent_id":"24"
+       }, 
+       {
+        "id":"136", "name":"Chimie organique fonctionnelle", "parent_id":"24"
+       }, 
+       {
+        "id":"137", "name":"Electrochimie", "parent_id":"24"
+       },
+       {
+        "id":"138", "name":"Techniques spectroscopiques d’analyse", "parent_id":"24"
+       },
+       {
+        "id":"139", "name":"Les grandes classes des réactions organiques", "parent_id":"25"
+       },
+       {
+        "id":"140", "name":"Chimie descriptive II/chimie de coordination", "parent_id":"25"
+       }, 
+       {
+        "id":"141", "name":"Composés organiques naturels", "parent_id":"25"
+       }, 
+       {
+        "id":"142", "name":"Composés organiques synthétiques", "parent_id":"25"
+       }, 
+       {
+        "id":"143", "name":"Chimie analytique appliquée", "parent_id":"25"
+       },
+       {
+        "id":"144", "name":"Rejets et traitements des déchets", "parent_id":"25"
+       },
+       {
+        "id":"145", "name":"Les grandes classes des matériaux", "parent_id":"25"
+       },
+       {
+        "id":"146", "name":"Les matériaux de grande diffusion", "parent_id":"25"
+       },
+       {
+        "id":"147", "name":"Mécanique du solide", "parent_id":"26"
+       }, 
+       {
+        "id":"148", "name":"Thermodynamique 2", "parent_id":"26"
+       }, 
+       {
+        "id":"149", "name":"Electromagnétisme dans le vide", "parent_id":"26"
+       },
+       {
+        "id":"150", "name":"Chimie organique générale", "parent_id":"26"
+       },
+       {
+        "id":"151", "name":"Analyse 3", "parent_id":"26"
+       },
+       {
+        "id":"152", "name":"Analyse numérique et algorithme", "parent_id":"26"
+       },
+       {
+        "id":"153", "name":"Electricité 3", "parent_id":"27"
+       }, 
+       {
+        "id":"154", "name":"Optique physique", "parent_id":"27"
+       }, 
+       {
+        "id":"155", "name":"Cristallographie géométrique et cristallochimie", "parent_id":"27"
+       },
+       {
+        "id":"156", "name":"Mécanique quantique", "parent_id":"27"
+       },
+       {
+        "id":"157", "name":"Electronique de base", "parent_id":"27"
+       },
+       {
+        "id":"158", "name":"Informatique", "parent_id":"27"
+       },
+       {
+        "id":"159", "name":"Mécanique analytique et vibrations", "parent_id":"28"
+       }, 
+       {
+        "id":"160", "name":"Physique des matériaux", "parent_id":"28"
+       }, 
+       {
+        "id":"161", "name":"Electronique analogique", "parent_id":"28"
+       },
+       {
+        "id":"162", "name":"Physique statistique", "parent_id":"28"
+       },
+       {
+        "id":"163", "name":"Physique nucléaire", "parent_id":"28"
+       },
+       {
+        "id":"164", "name":"Physique quantique", "parent_id":"28"
+       },
+       {
+        "id":"165", "name":"Mécanique des fluides", "parent_id":"29"
+       }, 
+       {
+        "id":"166", "name":"Transferts thermiques et turbomachines", "parent_id":"29"
+       }, 
+       {
+        "id":"167", "name":"Analyse numérique et programmation", "parent_id":"29"
+       },
+       {
+        "id":"168", "name":"Thermodynamique III", "parent_id":"29"
+       },
+       {
+        "id":"169", "name":"Elasticité linéaire", "parent_id":"29"
+       },
+       {
+        "id":"170", "name":"Statique des structures et résistance des matériaux", "parent_id":"29"
+       },
+       {
+        "id":"171", "name":"Capteurs et instrumentation", "parent_id":"29"
+       },
+       {
+        "id":"172", "name":"Electronique numérique", "parent_id":"29"
+       },
+       {
+        "id":"173", "name":"Automatique linéaire continue", "parent_id":"29"
+       },
+       {
+        "id":"174", "name":"Analyse des signaux et systèmes de communication", "parent_id":"29"
+       },
+       {
+        "id":"175", "name":"Mécanismes des réactions", "parent_id":"29"
+       },
+       {
+        "id":"176", "name":"Relativité restreinte", "parent_id":"29"
+       },
+       {
+        "id":"177", "name":"Spectroscopie nucléaire", "parent_id":"29"
+       },
+       {
+        "id":"178", "name":"Interactions rayonnement", "parent_id":"29"
+       },
+       {
+        "id":"179", "name":"Structure et propriétés électronique de la matière", "parent_id":"29"
+       },
+       {
+        "id":"180", "name":"Mécanismes physiques de la déformation dans les matériaux", "parent_id":"29"
+       },
+       {
+        "id":"181", "name":"Différents types de matériaux et initiation aux techniques d'analyse", "parent_id":"29"
+       },
+       {
+        "id":"182", "name":"Métallurgie physique", "parent_id":"29"
+       },
+       {
+        "id":"183", "name":"Biologie cellulaire", "parent_id":"30"
+       },
+       {
+        "id":"184", "name":"Embryologie/ histologie", "parent_id":"30"
+       },
+       {
+        "id":"185", "name":"Géologie", "parent_id":"30"
+       },
+       {
+        "id":"186", "name":"Maths", "parent_id":"30"
+       },
+       {
+        "id":"187", "name":"Physique 1", "parent_id":"30"
+       },
+       {
+        "id":"188", "name":"Chimie 1", "parent_id":"30"
+       },
+       {
+        "id":"189", "name":"Biologie animale", "parent_id":"31"
+       },
+       {
+        "id":"190", "name":"Biologie végétale", "parent_id":"31"
+       },
+       {
+        "id":"191", "name":"Géodynamique externe", "parent_id":"31"
+       },
+       {
+        "id":"192", "name":"Géodynamique interne", "parent_id":"31"
+       },
+       {
+        "id":"193", "name":"Physique 2", "parent_id":"31"
+       },
+       {
+        "id":"194", "name":"Chimie 2", "parent_id":"31"
+       },
+       {
+        "id":"195", "name":"Tectonique analytique", "parent_id":"32"
+       },
+       {
+        "id":"196", "name":"Pétrologie magmatique", "parent_id":"32"
+       },
+       {
+        "id":"197", "name":"Tectonique globale", "parent_id":"32"
+       },
+       {
+        "id":"198", "name":"Statistiques", "parent_id":"32"
+       },
+       {
+        "id":"199", "name":"Physique appliquée aux Sciences de la Terre", "parent_id":"32"
+       },
+       {
+        "id":"200", "name":"Pétrologie métamorphique", "parent_id":"32"
+       },
+       {
+        "id":"201", "name":"Pétrographie sédimentaire", "parent_id":"33"
+       },
+       {
+        "id":"202", "name":"Sédimentologie", "parent_id":"33"
+       },
+       {
+        "id":"203", "name":"Paléontologie", "parent_id":"33"
+       },
+       {
+        "id":"204", "name":"Stratigraphie", "parent_id":"33"
+       },
+       {
+        "id":"205", "name":"Géoinformatique", "parent_id":"33"
+       },
+       {
+        "id":"206", "name":"Chimie appliquée aux Sciences de la Terre", "parent_id":"33"
+       },
+       {
+        "id":"207", "name":"Géologie du Maroc I", "parent_id":"34"
+       },
+       {
+        "id":"208", "name":"Métallogénie", "parent_id":"34"
+       },
+       {
+        "id":"209", "name":"Géologie du Maroc II", "parent_id":"34"
+       },
+       {
+        "id":"210", "name":"Hydrogéologie", "parent_id":"34"
+       },
+       {
+        "id":"211", "name":"Géophysique", "parent_id":"34"
+       },
+       {
+        "id":"212", "name":"Géochimie", "parent_id":"34"
+       },
+       {
+        "id":"213", "name":"Ecole de terrain", "parent_id":"35"
+       },
+       {
+        "id":"214", "name":"Télédétection et Cartographie numérique", "parent_id":"35"
+       },
+       {
+        "id":"215", "name":"Géologie économique", "parent_id":"35"
+       },
+       {
+        "id":"216", "name":"Carrières et mines", "parent_id":"35"
+       },
+       {
+        "id":"217", "name":"Biochimie 1", "parent_id":"36"
+       },
+       {
+        "id":"218", "name":"Microbiologie", "parent_id":"36"
+       },
+       {
+        "id":"219", "name":"Ecologie générale 1", "parent_id":"36"
+       },
+       {
+        "id":"220", "name":"Statistiques", "parent_id":"36"
+       },
+       {
+        "id":"221", "name":"Biophysique", "parent_id":"36"
+       },
+       {
+        "id":"222", "name":"Techniques chimiques", "parent_id":"36"
+       },
+       {
+        "id":"223", "name":"Faunistique", "parent_id":"37"
+       },
+       {
+        "id":"224", "name":"Floristique", "parent_id":"37"
+       },
+       {
+        "id":"225", "name":"Physiologie végétale", "parent_id":"37"
+       },
+       {
+        "id":"226", "name":"Physiologie animale", "parent_id":"37"
+       },
+       {
+        "id":"227", "name":"Génétique 1", "parent_id":"37"
+       },
+       {
+        "id":"228", "name":"Biochimie 2", "parent_id":"37"
+       },
+       {
+        "id":"229", "name":"Biologie moléculaire", "parent_id":"38"
+       },
+       {
+        "id":"230", "name":"Immunologie générale", "parent_id":"38"
+       },
+       {
+        "id":"231", "name":"Ecologie générale 2", "parent_id":"38"
+       },
+       {
+        "id":"232", "name":"Génétique 2", "parent_id":"38"
+       },
+       {
+        "id":"233", "name":"Physiologie des grandes fonctions", "parent_id":"38"
+       },
+       {
+        "id":"234", "name":"Croissance et dvp des plantes", "parent_id":"38"
+       },
+       {
+        "id":"235", "name":"Biochimie approfondie", "parent_id":"39"
+       },
+       {
+        "id":"236", "name":"Immunologie fondamentale", "parent_id":"39"
+       },
+       {
+        "id":"237", "name":"Parasitologie", "parent_id":"39"
+       },
+       {
+        "id":"238", "name":"Biodiversité", "parent_id":"39"
+       },
+       {
+        "id":"239", "name":"Fonction nucléaire et biomembranes", "parent_id":"39"
+       },
+       {
+        "id":"240", "name":"Différenciation et dynamique cellulaire", "parent_id":"39"
+       },
+       {
+        "id":"241", "name":"Thérapie antimicrobienne", "parent_id":"39"
+       },
+       {
+        "id":"242", "name":"Techniques d’études cellulaires et moléculaires", "parent_id":"39"
+       },
+       {
+        "id":"243", "name":"Etude d’impact sur l’environnement", "parent_id":"39"
+       },
+       {
+        "id":"244", "name":"Pollution et réhabilitation des écosystèmes", "parent_id":"39"
+       },
+       {
+        "id":"245", "name":"Parasitologie", "parent_id":"39"
+       },
+       {
+        "id":"246", "name":"Biodiversité", "parent_id":"39"
+       },
+       {
+        "id":"247", "name":"Les bases de la pharmacologie et de la toxicologie", "parent_id":"39"
+       },
+       {
+        "id":"248", "name":"Pharmacognosie, plantes médicinales", "parent_id":"39"
+       },
+       {
+        "id":"249", "name":"Techniques d’extraction, de purification et d’analyse des produits naturels bioactifs", "parent_id":"39"
+       },
+       {
+        "id":"250", "name":"De la plante au médicament conventionnel et à base de plantes", "parent_id":"39"
+        }
+]
